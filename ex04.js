@@ -5,3 +5,4 @@ let resultado = a + b;
 let mensagem = "o resultado da operação é:";
 console.log(mensagem + resultado);
 //operação realizada na maquina por rayssa
+// thiago tenha dó de nós
