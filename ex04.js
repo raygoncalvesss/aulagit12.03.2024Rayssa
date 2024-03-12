@@ -1,4 +1,3 @@
-//fazendo uma operação de soma
 let a = 123;
 let b = 372;
 let resultado = a * b;
